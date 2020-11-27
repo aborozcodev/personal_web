@@ -8,7 +8,7 @@ body{
     font-size: 62.5%;
     height: 100vh;
     
-    background: linear-gradient(0deg, rgba(85,37,131,1) 0, rgba(0,0,0,1) 50%);
+    background: linear-gradient(0deg,rgb(41,52,82) 0, rgba(0,0,0,1) 50%);
 }
 .header{
     position: fixed;
